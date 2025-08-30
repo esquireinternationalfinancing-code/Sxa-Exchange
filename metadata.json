@@ -1,0 +1,5 @@
+{
+  "name": "Sxa Currency Converter",
+  "description": "A currency converter application that uses the Gemini API to fetch real-time exchange rates, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
